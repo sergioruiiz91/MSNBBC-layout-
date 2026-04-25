@@ -1,7 +1,8 @@
 # MSN Layout 🎯
 
 > *QWERTY Spanish Corne layout for Vim + Hyprland users*  
-> Nombre inspirado en el tridente del Barça — Messi, Suárez, Neymar — igual que este layout tiene 3 thumbs por lado.
+
+
 
 ---
 
